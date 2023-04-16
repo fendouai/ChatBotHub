@@ -30,4 +30,6 @@ driver.execute_script("window.open('https://free.anzz.top/#/chat/');")
 
 # todolist
 
-* 增加多次对话功能，从命令行获取提问内容，然后连续对话。 
+* 增加多次对话功能，从命令行获取提问内容，然后连续对话。
+* 做成客户端，并且可以配置网址。
+* headless 模式自动从这些网址获取答案，无需一个一个打开查看。
